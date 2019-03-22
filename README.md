@@ -12,7 +12,7 @@ You will be able to:
 
 ## Key Takeaways
 
-In this section, the nominal focus was on how to perform a linear regression, but the real value was learting how to think about the application of machine learning models to data sets. Key takeaways include:
+In this section, the nominal focus was on how to perform a linear regression, but the real value was learning how to think about the application of machine learning models to data sets. Key takeaways include:
 * The Pearson Correlation (range: -1 -> 1) is a standard way to describe the correlation between two variables
 * Statistical learning theory deals with the problem of finding a predictive function based on data
 * A loss function calculates how well a given model represents the relationship between data values
